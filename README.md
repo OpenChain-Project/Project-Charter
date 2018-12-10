@@ -1,2 +1,2 @@
 # Project-Charter
-Copies of the Project Charter in various formats.
+This repo contains copies of the Project Charter in various formats.
